@@ -1,6 +1,5 @@
 import { useDispatch, useSelector } from "react-redux";
 import { MdAdd, MdRemove, MdRestartAlt, } from "react-icons/md";
-
 import { increment, decrement, incrementByAmount, reset, } from "../features/counter/counterSlice";
 
 const Counter = () => {
