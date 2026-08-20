@@ -1,6 +1,6 @@
 import React from "react";
 import Counter from "./pages/counter";
-import Auth from "./pages/auth";
+import Auth from "./pages/Auth";
 
 const App = () => {
   return (
